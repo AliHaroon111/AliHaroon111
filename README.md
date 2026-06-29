@@ -5,7 +5,7 @@ I am a **Computer Science Student** at **COMSATS (Sahiwal)** and a passionate **
 ### 🛠 Languages and Tools I Use
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,express,mongodb,firebase,html,css,tailwind,vscode,git,github,postman" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,express,mongodb,firebase,html,css,tailwind,vscode,git,github,postman,docker,render" />
   </a>
 </p>
 
