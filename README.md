@@ -8,7 +8,7 @@ I am a **Computer Science Student** at **COMSATS (Sahiwal)** and a passionate **
     <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,express,mongodb,firebase,html,css,tailwind,vscode,git,github,postman,docker" style="vertical-align: middle;" />
   </a>
   <a href="https://render.com" target="_blank" rel="noreferrer">
-    <img src="https://simpleicons.org" width="46" height="46" alt="Render" style="vertical-align: middle; margin-left: 8px; filter: invert(74%) sepia(37%) saturate(742%) hue-rotate(115deg) brightness(96%) contrast(89%);" />
+    <img src="https://cdn.simpleicons.org/render" width="46" height="46" alt="Render" style="vertical-align: middle; margin-left: 8px;" />
   </a>
 </p>
 
