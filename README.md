@@ -8,9 +8,9 @@ I am a **Computer Science Student** at **COMSATS (Sahiwal)** and a passionate **
     <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,express,mongodb,firebase,html,css,tailwind,vscode,git,github,postman,docker" />
   </a>
   <a href="https://render.com" target="_blank" rel="noreferrer">
-    <img src="https://shields.io" height="48" style="vertical-align:top; margin-left: 4px;" />
+    <img src="https://shields.io" height="48" style="vertical-align: top; margin-left: 4px;" />
   </a>
-</p>
+</
 
 ### 🚀 What I'm Learning & Using
 - 💻 **Front-end:** TypeScript, React.js, Tailwind CSS, HTML5/CSS3
