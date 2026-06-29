@@ -5,12 +5,12 @@ I am a **Computer Science Student** at **COMSATS (Sahiwal)** and a passionate **
 ### 🛠 Languages and Tools I Use
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,express,mongodb,firebase,html,css,tailwind,vscode,git,github,postman,docker" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,express,mongodb,firebase,html,css,tailwind,vscode,git,github,postman,docker" style="vertical-align: middle;" />
   </a>
   <a href="https://render.com" target="_blank" rel="noreferrer">
-    <img src="https://shields.io" height="48" style="vertical-align: top; margin-left: 4px;" />
+    <img src="https://simpleicons.org" width="46" height="46" alt="Render" style="vertical-align: middle; margin-left: 8px; filter: invert(74%) sepia(37%) saturate(742%) hue-rotate(115deg) brightness(96%) contrast(89%);" />
   </a>
-</
+</p>
 
 ### 🚀 What I'm Learning & Using
 - 💻 **Front-end:** TypeScript, React.js, Tailwind CSS, HTML5/CSS3
