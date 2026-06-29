@@ -4,12 +4,7 @@ I am a **Computer Science Student** at **COMSATS (Sahiwal)** and a passionate **
 
 ### 🛠 Languages and Tools I Use
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,express,mongodb,firebase,html,css,tailwind,vscode,git,github,postman,docker" style="vertical-align: middle;" />
-  </a>
-  <a href="https://render.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/render" width="46" height="46" alt="Render" style="vertical-align: middle; margin-left: 8px;" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,py,react,nodejs,express,mongodb,firebase,html,css,tailwind,vscode,git,github,postman,docker" style="vertical-align: middle;" /></a><a href="https://render.com" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/render" width="48" height="48" alt="Render" style="vertical-align: middle; margin-left: 8px;" /></a>
 </p>
 
 ### 🚀 What I'm Learning & Using
